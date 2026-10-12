@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboardashboard.png
+![Dashboard Preview](PowerBI%20Dashboard.png)
 
 ## Project Overview
 
