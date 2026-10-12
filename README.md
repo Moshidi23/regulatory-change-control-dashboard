@@ -1,5 +1,8 @@
 Regulatory Change Control Dashboard
 
+Dashboard Preview
+
+
 Project Overview
 This project demonstrates the development of an interactive Power BI dashboard used to monitor change control activities and support regulatory and quality management reporting.
 
