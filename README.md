@@ -68,3 +68,5 @@ Automated data refresh
 Predictive trend analysis
 Workflow performance metrics
 Integrated regulatory submission tracking
+
+PowerBI Dashboard.png
