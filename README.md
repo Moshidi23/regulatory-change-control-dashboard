@@ -26,4 +26,68 @@ Without effective reporting, it can be difficult to:
 
 ## Objective
 
-Develop
+Develop an interactive dashboard to: 
+
+- Monitor open change controls
+- Track overdue and upcoming actions
+- Analyse workload distribution across regulatory personnel
+- Visualise lifecycle status and performance trends
+- Improve visibility of key quality and regulatory metrics
+- Support data-driven decision making through KPI reporting
+- 
+## Tools Used
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Modelling
+  
+## Key Features
+
+### KPI Monitoring
+
+- Total Open Change Controls
+- Overdue Change Controls
+- Due Soon Activities
+- Lifecycle Status Tracking
+  
+### Reporting
+
+- Owner Workload Analysis
+- Department Analysis
+- Trend Analysis
+- Change Control Categorisation
+  
+### Dashboard Functionality
+
+- Interactive filtering
+- Dynamic visualisations
+- Executive reporting
+- Data-driven insights
+  
+## Skills Demonstrated
+- Regulatory Operations Analytics
+- Data Transformation
+- Data Cleaning
+- Dashboard Development
+- KPI Design
+- Stakeholder Reporting
+- Business Intelligence
+- Power BI Reporting
+  
+## Data Privacy
+
+Product names, employee names, company names, sites, and other confidential information have been anonymized to protect sensitive business information.
+
+## Files Included
+
+- Change Control Dashboard.pbix
+- Regulatory_Change_Controls_Anonymized.xlsx
+- PowerBI Dashboard.png
+  
+## Author
+**Moshidi Mofulatsi**
+Regulatory Affairs Professional | Power BI | Data Analytics | Regulatory Systems
+
+
