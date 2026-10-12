@@ -1,7 +1,7 @@
 Regulatory Change Control Dashboard
 
 Dashboard Preview
-
+PowerBI%20Dashboard.png
 
 Project Overview
 This project demonstrates the development of an interactive Power BI dashboard used to monitor change control activities and support regulatory and quality management reporting.
@@ -72,4 +72,4 @@ Predictive trend analysis
 Workflow performance metrics
 Integrated regulatory submission tracking
 
-PowerBI Dashboard.png
+
